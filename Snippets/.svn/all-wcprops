@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets
+END
+if.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/if.tmSnippet
+END
+foldLeft.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/foldLeft.tmSnippet
+END
+lambda.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/lambda.tmSnippet
+END
+ife.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/ife.tmSnippet
+END
+trait.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/trait.tmSnippet
+END
+class.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/class.tmSnippet
+END
+function.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/function.tmSnippet
+END
+for.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/for.tmSnippet
+END
+object.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/object.tmSnippet
+END
+while.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/while.tmSnippet
+END
+multiline string.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/multiline%20string.tmSnippet
+END
+toString.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/toString.tmSnippet
+END
+match.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/match.tmSnippet
+END
+range.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/8598/trunk/Review/Bundles/Scala.tmbundle/Snippets/range.tmSnippet
+END
